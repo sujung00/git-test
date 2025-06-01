@@ -1,1 +1,2 @@
-First commit for racticing how to git reset
+First commit for practicing how to git reset
+Second commit for practicing how to git reset
