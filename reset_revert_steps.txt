@@ -1,0 +1,19 @@
+commit fcc6fc3aa6022132bd1088d7db2a3294ea3eb77b
+Author: SUJUNG <rlatnwjdirin@gmail.com>
+Date:   Sun Jun 1 21:59:07 2025 +0900
+
+    Revert "First commit for reset test"
+    
+    This reverts commit 2c9eaeefccbffab483d95d4ecd89ef10037b5ccc.
+
+commit c204adc617016c202d01622626342e6f493bfa8e
+Author: SUJUNG <rlatnwjdirin@gmail.com>
+Date:   Sun Jun 1 21:42:16 2025 +0900
+
+    Second commit for reset test
+
+commit 2c9eaeefccbffab483d95d4ecd89ef10037b5ccc
+Author: SUJUNG <rlatnwjdirin@gmail.com>
+Date:   Sun Jun 1 21:41:18 2025 +0900
+
+    First commit for reset test

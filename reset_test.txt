@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 First commit for practicing how to git reset
 Second commit for practicing how to git reset
-=======
-Practicing how to git reset commits.
->>>>>>> parent of 2c9eaee (First commit for reset test)
